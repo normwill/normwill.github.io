@@ -1,0 +1,101 @@
+body {
+	background-color: #777;
+	color: #ebebeb;
+	width: 960px;
+	font-family: 'Arial', 'Helvetica Neue' ,'Helvetica', 'Sans-Serif';
+	margin: auto;
+	color: grey;
+	height: 50%;
+
+	
+}
+.box-one {
+	height: 70%;
+	background: grey;
+	position: relative;
+	width: fixed;
+	border: grey;
+}
+
+section {
+	width: 495px;
+	
+}
+
+#sectionn {
+	background-color: #eee;
+	color: #696969;
+	text-align: center;
+	margin-top: 20px;
+	width: 40%;
+	padding: 30px;
+	float: left;
+	height: 300px;
+}
+
+#header1 {
+	text-align: center;
+	margin-top: 10px;
+	padding: 30px;
+	background-color: #eee;
+	
+}
+
+
+#navv {
+	text-align: center;
+	background-color: #eee;
+	margin-top: 10px;
+	padding: 30px;
+}
+#asidee {
+	text-align: center;
+	background-color: #eee;
+	float: right;
+	margin-top: 20px;
+	width: 40%;
+	padding: 30px;
+	height: 300px;
+}
+
+#articlee {
+	text-align: center;
+	color: white;
+	background-color: #777;
+	height: 200px;
+	padding: 10px;
+	margin-top: 40px;
+
+}
+
+#header2 {
+	//text-align: center;
+	background-color: #c0c0c0;
+	margin-top: 30px;
+	padding: 15px;
+	//width: 70%;
+}
+
+#pp {
+	text-align: center;
+	background-color: #c0c0c0;
+	//width: 33%;
+	padding: 15px;
+}
+
+#foot {
+	text-align: center;
+	background-color: #eee;
+	padding: 30px;
+	margin-top: 10px;
+}
+.box-two{ :height: 70%;
+	background: grey;
+	position: relative;
+	width: fixed;
+	border: grey;
+}
+#clear-fix {
+	clear: both;
+
+}
